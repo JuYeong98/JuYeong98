@@ -5,8 +5,11 @@
     I enjoy basketball, baseball, badminton and many other activities.
     I hope to develop everything I like.
     
+    (https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+    
     💪Platforms & Languages
-   (https://user-images.githubusercontent.com/77095811/127436979-593eada7-c62b-42ec-b4c1-9f286f1d61f6.png)
+   
 
     
     🌱 I’m currently learning about AI and Linear Algebra and so on.
