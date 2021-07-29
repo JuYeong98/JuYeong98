@@ -6,7 +6,7 @@
     I hope to develop everything I like.
     
     💪Platforms & Languages
-    ![image](https://user-images.githubusercontent.com/77095811/127436979-593eada7-c62b-42ec-b4c1-9f286f1d61f6.png)
+   (https://user-images.githubusercontent.com/77095811/127436979-593eada7-c62b-42ec-b4c1-9f286f1d61f6.png)
 
     
     🌱 I’m currently learning about AI and Linear Algebra and so on.
