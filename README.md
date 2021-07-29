@@ -5,7 +5,7 @@
     I enjoy basketball, baseball, badminton and many other activities.
     I hope to develop everything I like.
     
-    (https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+    (https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
 
     
     💪Platforms & Languages
