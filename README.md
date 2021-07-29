@@ -5,22 +5,22 @@
     I enjoy basketball, baseball, badminton and many other activities.
     I hope to develop everything I like.
     
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
 
     
-    💪Platforms & Languages
+    
    
-
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
     
     🌱 I’m currently learning about AI and Linear Algebra and so on.
     🔭 I’m currently working on Dongguk University.
     💬 Ask me about twinjuy@gmail.com
     
-      <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
+
 <!--
 **JuYeong98/JuYeong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
