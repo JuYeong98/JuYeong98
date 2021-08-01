@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cplusplus-00979D?style=flat-square&logo=Cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-E34F26?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-1572B6?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
@@ -19,7 +19,7 @@
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
 
-    
+[![Gmail Badge](https://img.shields.io/badge/twinjuy@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twinjuy@gmail.com)](mailto:twinjuy@gmail.com)
     
    
   <div align=center>
