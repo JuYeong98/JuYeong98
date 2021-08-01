@@ -18,7 +18,7 @@
 </p>
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
-
+## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/twinjuy@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twinjuy@gmail.com)](mailto:twinjuy@gmail.com)
     
    
