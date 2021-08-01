@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cplusplus-00979D?style=flat-square&logo=Cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-E34F26?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Pytorch-1572B6?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
     
