@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Cplusplus-3766AB?style=flat-square&logo=Cplusplus&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-E34F26?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-1572B6?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
 </p>
@@ -25,7 +25,7 @@
   </div>
     
     
-## About Me    
+## About Me!    
     🌱 I’m currently learning about AI and Linear Algebra and so on.
     🔭 I’m currently working on Dongguk University.
     💬 Ask me about twinjuy@gmail.com
