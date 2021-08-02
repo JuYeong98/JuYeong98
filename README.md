@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Cplusplus-00979D?style=flat-square&logo=Cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-E34F26?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-1572B6?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
