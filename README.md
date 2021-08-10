@@ -29,7 +29,7 @@
     🌱 I’m currently learning about AI and Linear Algebra and so on.
     🔭 I’m currently working on Dongguk University.
     💬 Ask me about twinjuy@gmail.com
-    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong98&theme=flag-india"/>
 
 <!--
 **JuYeong98/JuYeong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
