@@ -1,6 +1,6 @@
 ### Hi there 👋
     I'm JuYeongLee who is studying AI and android programming.
-    I want to become a AI researcher.
+    I want to become a AI researcher!
     
     I enjoy basketball, baseball, badminton and many other activities.
     I hope to develop everything I like.
