@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Pytorch-1572B6?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
 </p>
     
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
+ ![JuYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong98&theme=dark&show_icons=true)
 ## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/twinjuy@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twinjuy@gmail.com)](mailto:twinjuy@gmail.com)
     
@@ -29,7 +29,7 @@
     🌱 I’m currently learning about AI and Linear Algebra and so on.
     🔭 I’m currently working on Dongguk University.
     💬 Ask me about twinjuy@gmail.com
-github-readme-stats.vercel.app/api/top-langs/?username={JuYeong98}&langs_count=8
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong98&layout=compact&theme=tokyonight)
    
 
 
